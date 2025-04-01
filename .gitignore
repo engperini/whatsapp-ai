@@ -1,0 +1,4 @@
+env/
+.env
+allowed_contacts.txt
+messages.log
